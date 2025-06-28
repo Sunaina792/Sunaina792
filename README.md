@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Sunaina
- AI & ML Enthusiast | Web Developer | Open Source Contributor
+ AI & ML Enthusiast | Open Source Contributor
 
-- 🔭 **Interests**: Web development, AI, and Machine Learning technologies.
+- 🔭 **Interests**: AI, and Machine Learning technologies.
 - 🌱 **Currently learning**: NLP, Computer Vision, and Machine Learning.
 - 🤝 **Open to collaborate on**: Open-source AI/ML projects, research, and innovative ideas.
 - 📫 **How to reach me**: [4.sunaina089@gmail.com](mailto:4.sunaina089@gmail.com)
@@ -21,10 +21,17 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-ffbe00?style=flat-square&logo=mediapipe&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### Collaboration
 
 Let's connect and innovate together! 
 
 Mail me @[4.sunaina089@gmail.com](mailto:4.sunaina089@gmail.com)
+
+### 🔍 Fun Fact  
+I enjoy building smart tools with real-time AI, and I’m always open to learning and experimenting!
 
