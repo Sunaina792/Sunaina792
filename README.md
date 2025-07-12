@@ -2,7 +2,7 @@
  AI & ML Enthusiast | Open Source Contributor
 
 - 🔭 **Interests**: AI, and Machine Learning technologies.
-- 🌱 **Currently learning**: NLP, Computer Vision, and Machine Learning.
+- 🌱 **Currently learning**:Machine Learning and Data Structures & Algorithms in Python.
 - 🤝 **Open to collaborate on**: Open-source AI/ML projects, research, and innovative ideas.
 - 📫 **How to reach me**: [4.sunaina089@gmail.com](mailto:4.sunaina089@gmail.com)
 - 😄 **Pronouns**: She/Her
@@ -26,9 +26,26 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sunaina792&theme=algolia&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunaina792&show_icons=true&theme=algolia&hide_border=true" />
+</p>
+
+### 📌 Featured Projects
+- 🎯 [DSA LeetCode Daily](https://github.com/Sunaina792/dsa-leetcode-daily) – My everyday DSA grind!
+- 🤖 [Regression Visualizer](https://github.com/Sunaina792/Regression-Visualizer) – Explore ML models visually
+- 📩 [SMS Spam Classifier](https://github.com/Sunaina792/sms-spam-classifier) – Detects spam messages using NLP
+- 🎭 [Facial Emotion Detector](#) – Real-time face emotion detection with OpenCV
+
+
 ### Collaboration
 
 Let's connect and innovate together! 
+### 📫 Let’s Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sunaina-)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4.sunaina089@gmail.com)
 
 Mail me @[4.sunaina089@gmail.com](mailto:4.sunaina089@gmail.com)
 
