@@ -2,7 +2,7 @@
  AI & ML Enthusiast | Open Source Contributor
 
 - 🔭 **Interests**: AI, and Machine Learning technologies.
-- 🌱 **Currently learning**:Machine Learning and Data Structures & Algorithms in Python.
+- 🌱 **Currently learning**:Machine Learning and Open cv.
 - 🤝 **Open to collaborate on**: Open-source AI/ML projects, research, and innovative ideas.
 - 📫 **How to reach me**: [4.sunaina089@gmail.com](mailto:4.sunaina089@gmail.com)
 - 😄 **Pronouns**: She/Her
