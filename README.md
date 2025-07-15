@@ -26,14 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### 📈 GitHub Stats:
-<p align="center">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sunaina792&theme=algolia&hide_border=true" />
-  <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Sunaina792&show_icons=true&theme=algolia&hide_border=true" />
-</p>
 
 ### 📌 Featured Projects
 - 🎯 [DSA LeetCode Daily](https://github.com/Sunaina792/dsa-leetcode-daily) – My everyday DSA grind!
