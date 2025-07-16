@@ -29,10 +29,9 @@
 
 
 ### 📌 Featured Projects
-- 🎯 [DSA LeetCode Daily](https://github.com/Sunaina792/dsa-leetcode-daily) – My everyday DSA grind!
-- 🤖 [Regression Visualizer](https://github.com/Sunaina792/Regression-Visualizer) – Explore ML models visually
+- 🤖 [ML Visualizer App](https://github.com/Sunaina792/ML-Visualizer-App) – Explore ML models visually
 - 📩 [SMS Spam Classifier](https://github.com/Sunaina792/sms-spam-classifier) – Detects spam messages using NLP
-- 🎭 [Facial Emotion Detector](#) – Real-time face emotion detection with OpenCV
+- 🎭 [Facial Emotion Detector](https://github.com/Sunaina792/emotion-detector-app) – Real-time face emotion detection with OpenCV
 
 
 ### Collaboration
