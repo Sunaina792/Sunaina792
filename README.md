@@ -26,13 +26,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
-
-### 📌 Featured Projects
-- 🤖 [ML Visualizer App](https://github.com/Sunaina792/ML-Visualizer-App) – Explore ML models visually
-- 📩 [SMS Spam Classifier](https://github.com/Sunaina792/sms-spam-classifier) – Detects spam messages using NLP
-- 🎭 [Facial Emotion Detector](https://github.com/Sunaina792/emotion-detector-app) – Real-time face emotion detection with OpenCV
-
-
 ### Collaboration
 
 Let's connect and innovate together! 
