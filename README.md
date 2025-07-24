@@ -25,15 +25,9 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-
-### Collaboration
-
-Let's connect and innovate together! 
 ### 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sunaina-)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4.sunaina089@gmail.com)
-
-Mail me @[4.sunaina089@gmail.com](mailto:4.sunaina089@gmail.com)
 
 ### 🔍 Fun Fact  
 I enjoy building smart tools with real-time AI, and I’m always open to learning and experimenting!
