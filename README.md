@@ -1,5 +1,4 @@
 ### Hi there! 👋 I'm Sunaina
- AI & ML Enthusiast | Open Source Contributor
 
 - 🔭 **Interests**: AI, and Machine Learning technologies.
 - 🌱 **Currently learning**:Machine Learning and Open cv.
