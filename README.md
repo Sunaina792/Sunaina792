@@ -5,12 +5,13 @@
 - 🤝 **Open to collaborate on**: Open-source AI/ML projects, research, and innovative ideas.
 - 📫 **How to reach me**: [4.sunaina089@gmail.com](mailto:4.sunaina089@gmail.com)
 - 😄 **Pronouns**: She/Her
+---
 
-### 📊 GitHub Stats
-![Sunaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunaina792&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunaina792&layout=compact&theme=radical)
+### 📊 GitHub Analytics
+![Sunaina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunaina792&show_icons=true&theme=radical&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sunaina792&theme=radical)
 
-
+---
 ### Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
