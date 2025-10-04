@@ -12,9 +12,23 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sunaina792&theme=radical)
 
 ---
+
+### 🛠️ Technologies & Tools
+
+**AI/ML & Data Science:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Frameworks & Tools:**  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-000000?style=flat&logo=groq&logoColor=white)
+
+
 ### Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -22,12 +36,23 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-ffbe00?style=flat-square&logo=mediapipe&logoColor=black)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+🔍 **[Emotion Detector App](https://github.com/Sunaina792/emotion-detector-app)** - Real-time facial emotion recognition using OpenCV & Deep Learning
+
+📊 **[ML Visualizer](https://github.com/Sunaina792/ML-Visualizer-App)** - Interactive ML model exploration with Scikit-learn & Streamlit
+
+💼 **[SkillBridge AI](https://github.com/Sunaina792/SkillBridge-AI-Powered-Job-Recommender)** - Smart job recommender with resume parsing & skill gap analysis
+
+🎯 **[AI PPT Generator](https://github.com/Sunaina792/AI-PPT-GENERATOR)** - Automated PowerPoint creation using AI APIs
+
+💬 **[Chat With Groq](https://github.com/Sunaina792/Chat-With-Groq)** - Ultra-fast AI chatbot using LangChain & Groq inference
+
+---
 
 ### 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sunaina-i)
