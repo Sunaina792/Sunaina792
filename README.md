@@ -11,7 +11,6 @@
 
 ### 📊 GitHub Analytics
 ![Sunaina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunaina792&show_icons=true&theme=radical&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sunaina792&theme=radical)
 
 ### 🛠️ Technologies & Tools
 
