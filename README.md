@@ -9,8 +9,6 @@
 📫 **How to reach me**: 4.sunaina089@gmail.com  
 😄 **Pronouns**: She/Her
 
-### 📊 GitHub Analytics
-![Sunaina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunaina792&show_icons=true&theme=radical&count_private=true)
 
 ### 🛠️ Technologies & Tools
 
