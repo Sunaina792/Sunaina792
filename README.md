@@ -2,9 +2,8 @@
 
 🎓 **B.Tech CSE** student specializing in **AI/ML** | 3rd Year  
 🔭 **Interests**: AI, and Machine Learning technologies  
-🌱 **Currently learning**: Machine Learning and OpenCV  
-🤖 **Building AI solutions**: Computer Vision, NLP, LLMs  
-🚀 Hackathon Participant | Google GenAI 2025  
+🌱 **Currently learning**: Deep Learning and LLM's  
+🤖 **Building AI solutions**: Computer Vision, NLP, LLMs   
 💡 Real-time AI applications & Agentic AI enthusiast  
 📫 **How to reach me**: 4.sunaina089@gmail.com  
 😄 **Pronouns**: She/Her
