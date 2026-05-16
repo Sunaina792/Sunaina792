@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Sunaina</h1>
-<h3 align="center">AI/ML Engineer Intern @ IIT Ropar· B.Tech CSE (AI/ML) · Batch 2023–27</h3>
+<h3 align="center">AI/ML Engineer · B.Tech CSE (AI/ML) · Batch 2023–27</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Agentic+AI+Systems;Multilingual+Voice+AI+%7C+STT%2FLLM%2FTTS;RAG+%7C+LangGraph+%7C+LangChain;Sub-8s+Latency+Pipelines" alt="Typing SVG" />
